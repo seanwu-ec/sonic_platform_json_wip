@@ -1,0 +1,233 @@
+{
+    "chassis": {
+        "name": "Accton-AS9726-32D-100G",
+        "components": [
+            {
+                "name": "CPLD1"
+            },
+            {
+                "name": "BIOS"
+            }
+        ],
+        "fan_drawers": [
+            {
+                "name": "FanTray1",
+                "fans": [
+                    {
+                        "name": "FAN-1F"
+                    },
+                    {
+                        "name": "FAN-1R"
+                    }
+                ]
+            },
+            {
+                "name": "FanTray2",
+                "fans": [
+                    {
+                        "name": "FAN-2F"
+                    },
+                    {
+                        "name": "FAN-2R"
+                    }
+                ]
+            },
+            {
+                "name": "FanTray3",
+                "fans": [
+                    {
+                        "name": "FAN-3F"
+                    },
+                    {
+                        "name": "FAN-3R"
+                    }
+                ]
+            },
+            {
+                "name": "FanTray4",
+                "fans": [
+                    {
+                        "name": "FAN-4F"
+                    },
+                    {
+                        "name": "FAN-4R"
+                    }
+                ]
+            },
+            {
+                "name": "FanTray5",
+                "fans": [
+                    {
+                        "name": "FAN-5F"
+                    },
+                    {
+                        "name": "FAN-5R"
+                    }
+                ]
+            },
+            {
+                "name": "FanTray6",
+                "fans": [
+                    {
+                        "name": "FAN-6F"
+                    },
+                    {
+                        "name": "FAN-6R"
+                    }
+                ]
+            }
+        ],
+        "psus": [
+            {
+                "name": "PSU-1",
+                "fans": [
+                    {
+                        "name": "PSU-1 FAN-1"
+                    }
+                ],
+                "thermals": [
+                    {
+                        "name": "PSU-1 temp sensor 1"
+                    }
+                ]
+            },
+            {
+                "name": "PSU-2",
+                "fans": [
+                    {
+                        "name": "PSU-2 FAN-1"
+                    }
+                ],
+                "thermals": [
+                    {
+                        "name": "PSU-2 temp sensor 1"
+                    }
+                ]
+            }
+        ],
+        "sfps": [
+            {
+                "name": "Ethernet1"
+            },
+            {
+                "name": "Ethernet2"
+            },
+            {
+                "name": "Ethernet3"
+            },
+            {
+                "name": "Ethernet4"
+            },
+            {
+                "name": "Ethernet5"
+            },
+            {
+                "name": "Ethernet6"
+            },
+            {
+                "name": "Ethernet7"
+            },
+            {
+                "name": "Ethernet8"
+            },
+            {
+                "name": "Ethernet9"
+            },
+            {
+                "name": "Ethernet10"
+            },
+            {
+                "name": "Ethernet11"
+            },
+            {
+                "name": "Ethernet12"
+            },
+            {
+                "name": "Ethernet13"
+            },
+            {
+                "name": "Ethernet14"
+            },
+            {
+                "name": "Ethernet15"
+            },
+            {
+                "name": "Ethernet16"
+            },
+            {
+                "name": "Ethernet17"
+            },
+            {
+                "name": "Ethernet18"
+            },
+            {
+                "name": "Ethernet19"
+            },
+            {
+                "name": "Ethernet20"
+            },
+            {
+                "name": "Ethernet21"
+            },
+            {
+                "name": "Ethernet22"
+            },
+            {
+                "name": "Ethernet23"
+            },
+            {
+                "name": "Ethernet24"
+            },
+            {
+                "name": "Ethernet25"
+            },
+            {
+                "name": "Ethernet26"
+            },
+            {
+                "name": "Ethernet27"
+            },
+            {
+                "name": "Ethernet28"
+            },
+            {
+                "name": "Ethernet29"
+            },
+            {
+                "name": "Ethernet30"
+            },
+            {
+                "name": "Ethernet31"
+            },
+            {
+                "name": "Ethernet32"
+            },
+            {
+                "name": "Ethernet33"
+            },
+            {
+                "name": "Ethernet34"
+            }
+        ],
+        "thermals": [
+            {
+                "name": "Main Board 0x48"
+            },
+            {
+                "name": "Main Board 0x49"
+            },
+            {
+                "name": "Main Board 0x4A"
+            },
+            {
+                "name": "CPU Board 0x4B"
+            },
+            {
+                "name": "OCXO 0x4C"
+            },
+            {
+                "name": "Main Board 0x4F"
+            }
+        ]
+    }
+}

@@ -1,0 +1,310 @@
+{
+    "chassis": {
+        "name": "7816-64X-O-AC-B-R",
+        "components": [
+            {
+                "name": "CPLD1"
+            },
+            {
+                "name": "CPLD2"
+            },
+            {
+                "name": "CPLD3"
+            },
+            {
+                "name": "CPLD4"
+            },
+            {
+                "name": "BIOS"
+            }
+        ],
+        "fan_drawers": [
+            {
+                "name": "FanTray1",
+                "fans": [
+                    {
+                        "name": "FAN-1F"
+                    },
+                    {
+                        "name": "FAN-1R"
+                    }
+                ]
+            },
+            {
+                "name": "FanTray2",
+                "fans": [
+                    {
+                        "name": "FAN-2F"
+                    },
+                    {
+                        "name": "FAN-2R"
+                    }
+                ]
+            },
+            {
+                "name": "FanTray3",
+                "fans": [
+                    {
+                        "name": "FAN-3F"
+                    },
+                    {
+                        "name": "FAN-3R"
+                    }
+                ]
+            },
+            {
+                "name": "FanTray4",
+                "fans": [
+                    {
+                        "name": "FAN-4F"
+                    },
+                    {
+                        "name": "FAN-4R"
+                    }
+                ]
+            }
+        ],
+        "psus": [
+            {
+                "name": "PSU-1",
+                "fans": [
+                    {
+                        "name": "PSU-1 FAN-1"
+                    }
+                ],
+                "thermals": [
+                    {
+                        "name": "PSU-1 temp sensor 1"
+                    }
+                ]
+            },
+            {
+                "name": "PSU-2",
+                "fans": [
+                    {
+                        "name": "PSU-2 FAN-1"
+                    }
+                ],
+                "thermals": [
+                    {
+                        "name": "PSU-2 temp sensor 2"
+                    }
+                ]
+            }
+        ],
+        "sfps": [
+            {
+                "name": "Ethernet0"
+            },
+            {
+                "name": "Ethernet4"
+            },
+            {
+                "name": "Ethernet8"
+            },
+            {
+                "name": "Ethernet12"
+            },
+            {
+                "name": "Ethernet16"
+            },
+            {
+                "name": "Ethernet20"
+            },
+            {
+                "name": "Ethernet24"
+            },
+            {
+                "name": "Ethernet28"
+            },
+            {
+                "name": "Ethernet32"
+            },
+            {
+                "name": "Ethernet36"
+            },
+            {
+                "name": "Ethernet40"
+            },
+            {
+                "name": "Ethernet44"
+            },
+            {
+                "name": "Ethernet48"
+            },
+            {
+                "name": "Ethernet52"
+            },
+            {
+                "name": "Ethernet56"
+            },
+            {
+                "name": "Ethernet60"
+            },
+            {
+                "name": "Ethernet64"
+            },
+            {
+                "name": "Ethernet68"
+            },
+            {
+                "name": "Ethernet72"
+            },
+            {
+                "name": "Ethernet76"
+            },
+            {
+                "name": "Ethernet80"
+            },
+            {
+                "name": "Ethernet84"
+            },
+            {
+                "name": "Ethernet88"
+            },
+            {
+                "name": "Ethernet92"
+            },
+            {
+                "name": "Ethernet96"
+            },
+            {
+                "name": "Ethernet100"
+            },
+            {
+                "name": "Ethernet104"
+            },
+            {
+                "name": "Ethernet108"
+            },
+            {
+                "name": "Ethernet112"
+            },
+            {
+                "name": "Ethernet116"
+            },
+            {
+                "name": "Ethernet120"
+            },
+            {
+                "name": "Ethernet124"
+            },
+            {
+                "name": "Ethernet128"
+            },
+            {
+                "name": "Ethernet132"
+            },
+            {
+                "name": "Ethernet136"
+            },
+            {
+                "name": "Ethernet140"
+            },
+            {
+                "name": "Ethernet144"
+            },
+            {
+                "name": "Ethernet148"
+            },
+            {
+                "name": "Ethernet152"
+            },
+            {
+                "name": "Ethernet156"
+            },
+            {
+                "name": "Ethernet160"
+            },
+            {
+                "name": "Ethernet164"
+            },
+            {
+                "name": "Ethernet168"
+            },
+            {
+                "name": "Ethernet172"
+            },
+            {
+                "name": "Ethernet176"
+            },
+            {
+                "name": "Ethernet180"
+            },
+            {
+                "name": "Ethernet184"
+            },
+            {
+                "name": "Ethernet188"
+            },
+            {
+                "name": "Ethernet192"
+            },
+            {
+                "name": "Ethernet196"
+            },
+            {
+                "name": "Ethernet200"
+            },
+            {
+                "name": "Ethernet204"
+            },
+            {
+                "name": "Ethernet208"
+            },
+            {
+                "name": "Ethernet212"
+            },
+            {
+                "name": "Ethernet216"
+            },
+            {
+                "name": "Ethernet220"
+            },
+            {
+                "name": "Ethernet224"
+            },
+            {
+                "name": "Ethernet228"
+            },
+            {
+                "name": "Ethernet232"
+            },
+            {
+                "name": "Ethernet236"
+            },
+            {
+                "name": "Ethernet240"
+            },
+            {
+                "name": "Ethernet244"
+            },
+            {
+                "name": "Ethernet248"
+            },
+            {
+                "name": "Ethernet252"
+            }
+        ],
+        "thermals": [
+            {
+                "name": "Temp sensor 1"
+            },
+            {
+                "name": "Temp sensor 2"
+            },
+            {
+                "name": "Temp sensor 3"
+            },
+            {
+                "name": "Temp sensor 4"
+            },
+            {
+                "name": "Temp sensor 5"
+            },
+            {
+                "name": "Temp sensor 6"
+            }
+        ]
+    }
+}

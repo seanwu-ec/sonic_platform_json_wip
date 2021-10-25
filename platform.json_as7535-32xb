@@ -1,0 +1,214 @@
+{
+    "chassis": {
+        "name": "Accton-AS7535-32XB",
+        "components": [
+            {
+                "name": "MAIN_FPGA"
+            },
+            {
+                "name": "MAIN_CPLD"
+            },
+            {
+                "name": "FAN_CPLD"
+            },
+            {
+                "name": "BIOS"
+            }
+        ],
+        "fan_drawers": [
+            {
+                "name": "FanTray-0",
+                "fans": [
+                    {
+                        "name": "FAN-1"
+                    }
+                ]
+            },
+            {
+                "name": "FanTray-1",
+                "fans": [
+                    {
+                        "name": "FAN-2"
+                    }
+                ]
+            },
+            {
+                "name": "FanTray-2",
+                "fans": [
+                    {
+                        "name": "FAN-3"
+                    }
+                ]
+            },
+            {
+                "name": "FanTray-3",
+                "fans": [
+                    {
+                        "name": "FAN-4"
+                    }
+                ]
+            },
+            {
+                "name": "FanTray-4",
+                "fans": [
+                    {
+                        "name": "FAN-5"
+                    }
+                ]
+            },
+            {
+                "name": "FanTray-5",
+                "fans": [
+                    {
+                        "name": "FAN-6"
+                    }
+                ]
+            }
+        ],
+        "psus": [
+            {
+                "name": "PSU-1",
+                "fans": [
+                    {
+                        "name": "PSU-1 FAN-1"
+                    }
+                ]
+            },
+            {
+                "name": "PSU-2",
+                "fans": [
+                    {
+                        "name": "PSU-2 FAN-1"
+                    }
+                ]
+            }
+        ],
+        "sfps": [
+            {
+                "name": "Ethernet0"
+            },
+            {
+                "name": "Ethernet1"
+            },
+            {
+                "name": "Ethernet2"
+            },
+            {
+                "name": "Ethernet3"
+            },
+            {
+                "name": "Ethernet4"
+            },
+            {
+                "name": "Ethernet5"
+            },
+            {
+                "name": "Ethernet6"
+            },
+            {
+                "name": "Ethernet7"
+            },
+            {
+                "name": "Ethernet8"
+            },
+            {
+                "name": "Ethernet9"
+            },
+            {
+                "name": "Ethernet10"
+            },
+            {
+                "name": "Ethernet11"
+            },
+            {
+                "name": "Ethernet12"
+            },
+            {
+                "name": "Ethernet13"
+            },
+            {
+                "name": "Ethernet14"
+            },
+            {
+                "name": "Ethernet15"
+            },
+            {
+                "name": "Ethernet16"
+            },
+            {
+                "name": "Ethernet17"
+            },
+            {
+                "name": "Ethernet18"
+            },
+            {
+                "name": "Ethernet19"
+            },
+            {
+                "name": "Ethernet20"
+            },
+            {
+                "name": "Ethernet21"
+            },
+            {
+                "name": "Ethernet22"
+            },
+            {
+                "name": "Ethernet23"
+            },
+            {
+                "name": "Ethernet24"
+            },
+            {
+                "name": "Ethernet25"
+            },
+            {
+                "name": "Ethernet26"
+            },
+            {
+                "name": "Ethernet30"
+            },
+            {
+                "name": "Ethernet38"
+            },
+            {
+                "name": "Ethernet42"
+            }
+        ],
+        "thermals": [
+            {
+                "name": "Temp sensor 1"
+            },
+            {
+                "name": "Temp sensor 2"
+            },
+            {
+                "name": "Temp sensor 3"
+            },
+            {
+                "name": "Temp sensor 4"
+            },
+            {
+                "name": "Temp sensor 5"
+            },
+            {
+                "name": "Temp sensor 6"
+            },
+            {
+                "name": "Temp sensor 7"
+            },
+            {
+                "name": "Temp sensor 8"
+            },
+            {
+                "name": "Temp sensor 9"
+            },
+            {
+                "name": "Temp sensor 10"
+            },
+            {
+                "name": "Temp sensor 11"
+            }
+        ]
+    }
+}

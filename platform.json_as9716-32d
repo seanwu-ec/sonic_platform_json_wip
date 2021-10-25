@@ -1,0 +1,188 @@
+{
+    "chassis": {
+        "name": "9716-32D-O-AC-F",
+        "fans": [
+            {
+                "name": "Fantray1_1"
+            },
+            {
+                "name": "Fantray1_2"
+            },
+            {
+                "name": "Fantray2_1"
+            },
+            {
+                "name": "Fantray2_2"
+            },
+            {
+                "name": "Fantray3_1"
+            },
+            {
+                "name": "Fantray3_2"
+            },
+            {
+                "name": "Fantray4_1"
+            },
+            {
+                "name": "Fantray4_2"
+            },
+            {
+                "name": "Fantray5_1"
+            },
+            {
+                "name": "Fantray5_2"
+            },
+            {
+                "name": "Fantray6_1"
+            },
+            {
+                "name": "Fantray6_2"
+            }
+        ],
+        "psus": [
+            {
+                "name": "PSU1",
+                "fans": [
+                    {
+                        "name": "PSU1_FAN1"
+                    }
+                ]
+            },
+            {
+                "name": "PSU2",
+                "fans": [
+                    {
+                        "name": "PSU2_FAN1"
+                    }
+                ]
+            }
+        ],
+        "sfps": [
+            {
+                "name": "PORT1"
+            },
+            {
+                "name": "PORT2"
+            },
+            {
+                "name": "PORT3"
+            },
+            {
+                "name": "PORT4"
+            },
+            {
+                "name": "PORT5"
+            },
+            {
+                "name": "PORT6"
+            },
+            {
+                "name": "PORT7"
+            },
+            {
+                "name": "PORT8"
+            },
+            {
+                "name": "PORT9"
+            },
+            {
+                "name": "PORT10"
+            },
+            {
+                "name": "PORT11"
+            },
+            {
+                "name": "PORT12"
+            },
+            {
+                "name": "PORT13"
+            },
+            {
+                "name": "PORT14"
+            },
+            {
+                "name": "PORT15"
+            },
+            {
+                "name": "PORT16"
+            },
+            {
+                "name": "PORT17"
+            },
+            {
+                "name": "PORT18"
+            },
+            {
+                "name": "PORT19"
+            },
+            {
+                "name": "PORT20"
+            },
+            {
+                "name": "PORT21"
+            },
+            {
+                "name": "PORT22"
+            },
+            {
+                "name": "PORT23"
+            },
+            {
+                "name": "PORT24"
+            },
+            {
+                "name": "PORT25"
+            },
+            {
+                "name": "PORT26"
+            },
+            {
+                "name": "PORT27"
+            },
+            {
+                "name": "PORT28"
+            },
+            {
+                "name": "PORT29"
+            },
+            {
+                "name": "PORT30"
+            },
+            {
+                "name": "PORT31"
+            },
+            {
+                "name": "PORT32"
+            },
+            {
+                "name": "PORT33"
+            },
+            {
+                "name": "PORT34"
+            }
+        ],
+        "thermals": [
+            {
+                "name": "Temp_1"
+            },
+            {
+                "name": "Temp_2"
+            },
+            {
+                "name": "Temp_3"
+            },
+            {
+                "name": "Temp_4"
+            },
+            {
+                "name": "Temp_5"
+            },
+            {
+                "name": "Temp_6"
+            },
+            {
+                "name": "Temp_7"
+            }
+        ]
+    }
+}

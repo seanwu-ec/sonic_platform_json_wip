@@ -1,0 +1,299 @@
+{
+    "chassis": {
+        "name": "Accton-AS7926-40XFB",
+        "components": [
+            {
+                "name": "CPLD1"
+            },
+            {
+                "name": "CPLD2"
+            },
+            {
+                "name": "CPLD3"
+            },
+            {
+                "name": "BIOS"
+            }
+        ],
+        "fan_drawers": [
+            {
+                "name": "FanTray0",
+                "fans": [
+                    {
+                        "name": "FAN-1F"
+                    },
+                    {
+                        "name": "FAN-2F"
+                    }
+                ]
+            },
+            {
+                "name": "FanTray1",
+                "fans": [
+                    {
+                        "name": "FAN-3F"
+                    },
+                    {
+                        "name": "FAN-4F"
+                    }
+                ]
+            },
+            {
+                "name": "FanTray2",
+                "fans": [
+                    {
+                        "name": "FAN-5F"
+                    },
+                    {
+                        "name": "FAN-1R"
+                    }
+                ]
+            },
+            {
+                "name": "FanTray3",
+                "fans": [
+                    {
+                        "name": "FAN-2R"
+                    },
+                    {
+                        "name": "FAN-3R"
+                    }
+                ]
+            },
+            {
+                "name": "FanTray4",
+                "fans": [
+                    {
+                        "name": "FAN-4R"
+                    },
+                    {
+                        "name": "FAN-5R"
+                    }
+                ]
+            }
+        ],
+        "psus": [
+            {
+                "name": "PSU-1",
+                "fans": [
+                    {
+                        "name": "PSU-1 FAN-1"
+                    }
+                ]
+            },
+            {
+                "name": "PSU-2",
+                "fans": [
+                    {
+                        "name": "PSU-2 FAN-1"
+                    }
+                ]
+            }
+        ],
+        "sfps": [
+            {
+                "name": "Ethernet0"
+            },
+            {
+                "name": "Ethernet2"
+            },
+            {
+                "name": "Ethernet4"
+            },
+            {
+                "name": "Ethernet6"
+            },
+            {
+                "name": "Ethernet8"
+            },
+            {
+                "name": "Ethernet10"
+            },
+            {
+                "name": "Ethernet12"
+            },
+            {
+                "name": "Ethernet14"
+            },
+            {
+                "name": "Ethernet16"
+            },
+            {
+                "name": "Ethernet18"
+            },
+            {
+                "name": "Ethernet20"
+            },
+            {
+                "name": "Ethernet22"
+            },
+            {
+                "name": "Ethernet24"
+            },
+            {
+                "name": "Ethernet26"
+            },
+            {
+                "name": "Ethernet28"
+            },
+            {
+                "name": "Ethernet30"
+            },
+            {
+                "name": "Ethernet32"
+            },
+            {
+                "name": "Ethernet34"
+            },
+            {
+                "name": "Ethernet36"
+            },
+            {
+                "name": "Ethernet38"
+            },
+            {
+                "name": "Ethernet40"
+            },
+            {
+                "name": "Ethernet42"
+            },
+            {
+                "name": "Ethernet44"
+            },
+            {
+                "name": "Ethernet46"
+            },
+            {
+                "name": "Ethernet48"
+            },
+            {
+                "name": "Ethernet50"
+            },
+            {
+                "name": "Ethernet52"
+            },
+            {
+                "name": "Ethernet54"
+            },
+            {
+                "name": "Ethernet56"
+            },
+            {
+                "name": "Ethernet58"
+            },
+            {
+                "name": "Ethernet60"
+            },
+            {
+                "name": "Ethernet62"
+            },
+            {
+                "name": "Ethernet64"
+            },
+            {
+                "name": "Ethernet66"
+            },
+            {
+                "name": "Ethernet68"
+            },
+            {
+                "name": "Ethernet70"
+            },
+            {
+                "name": "Ethernet72"
+            },
+            {
+                "name": "Ethernet74"
+            },
+            {
+                "name": "Ethernet76"
+            },
+            {
+                "name": "Ethernet78"
+            },
+            {
+                "name": "Ethernet80"
+            },
+            {
+                "name": "Ethernet82"
+            },
+            {
+                "name": "Ethernet84"
+            },
+            {
+                "name": "Ethernet86"
+            },
+            {
+                "name": "Ethernet88"
+            },
+            {
+                "name": "Ethernet90"
+            },
+            {
+                "name": "Ethernet92"
+            },
+            {
+                "name": "Ethernet94"
+            },
+            {
+                "name": "Ethernet96"
+            },
+            {
+                "name": "Ethernet98"
+            },
+            {
+                "name": "Ethernet100"
+            },
+            {
+                "name": "Ethernet102"
+            },
+            {
+                "name": "Ethernet104"
+            },
+            {
+                "name": "Ethernet105"
+            },
+            {
+                "name": "Ethernet106"
+            }
+        ],
+        "thermals": [
+            {
+                "name": "Temp sensor 1"
+            },
+            {
+                "name": "Temp sensor 2"
+            },
+            {
+                "name": "Temp sensor 3"
+            },
+            {
+                "name": "Temp sensor 4"
+            },
+            {
+                "name": "Temp sensor 5"
+            },
+            {
+                "name": "Temp sensor 6"
+            },
+            {
+                "name": "Temp sensor 7"
+            },
+            {
+                "name": "Temp sensor 8"
+            },
+            {
+                "name": "Temp sensor 9"
+            },
+            {
+                "name": "Temp sensor 10"
+            },
+            {
+                "name": "Temp sensor 11"
+            },
+            {
+                "name": "Temp sensor 12"
+            }
+        ]
+    }
+}
